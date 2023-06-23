@@ -1,4 +1,3 @@
-import json
 from typing import List
 
 from fastapi import FastAPI, Request, WebSocket, WebSocketDisconnect, Response
